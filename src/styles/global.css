@@ -149,10 +149,10 @@ a {
   transition: color .3s ease, transform 0.3s ease-in-out;
 }
 .icon-btn.light:hover {
-  background: var(--violet-deep);
-  border-color: var(--paper);
+  background: var(--paper);
+  border-color: var(--violet-deep);
   transform: translateY(-10px);
-  color: #fff;
+  color: var(--violet-deep);
 }
 .nav-toggle {
   display: none;
