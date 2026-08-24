@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Emi Drinks
 
 A Vite + React site for Emi Drinks.
@@ -30,3 +31,7 @@ npm run build
 ```
 
 Outputs a static `dist/` folder you can deploy to Vercel, Netlify, or anywhere that serves static files.
+=======
+# Emi-drinks
+A brand website for emi drinks. using react
+>>>>>>> 99c8909c26d2e6d7a9dacd435e6fb606983825a6
